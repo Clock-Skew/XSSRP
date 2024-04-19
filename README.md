@@ -17,9 +17,9 @@ Ensure you have Python 3.x installed on your system.
 
 Clone this repository:
 
-```git clone https://github.com/yourusername/xss-testing-tool.git```
+```git clone https://github.com/D1865/XSSRP```
 
-cd ```xss-testing-tool```
+cd ```XSSRP```
 
 ## Usage
 
