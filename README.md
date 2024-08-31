@@ -34,8 +34,6 @@ chmod +x app.py
 
 ### Usage
 
-To start testing a website for XSS vulnerabilities, navigate to the src directory and run the tool with the following command:
-
 ```bash
 python app.py --url http://example.com
 ```
