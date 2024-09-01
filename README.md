@@ -28,7 +28,7 @@ Cloning the Repository
 
 ```bash
 git clone https://github.com/Clock-Skew/XSSRP
-cd XSSRP
+cd XSSRP/src/
 chmod +x app.py
 ```
 
